@@ -28,3 +28,4 @@
 /Users/linna@paddle.com/week_eight/MovieApi/MvcMovie/obj/Debug/netcoreapp2.2/MvcMovie.dll
 /Users/linna@paddle.com/week_eight/MovieApi/MvcMovie/obj/Debug/netcoreapp2.2/MvcMovie.pdb
 /Users/linna@paddle.com/week_eight/MovieApi/MvcMovie/obj/Debug/netcoreapp2.2/MvcMovie.csproj.CopyComplete
+/Users/linna@paddle.com/week_eight/MovieApi/MvcMovie/obj/Debug/netcoreapp2.2/Razor/Views/HelloWorld/Index.g.cshtml.cs
